@@ -1,0 +1,10 @@
+C:\Users\shovon\Desktop\C sharp\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\shovon\Desktop\C sharp\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\shovon\Desktop\C sharp\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\shovon\Desktop\C sharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\shovon\Desktop\C sharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.GameScreen.resources
+C:\Users\shovon\Desktop\C sharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\shovon\Desktop\C sharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\shovon\Desktop\C sharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\shovon\Desktop\C sharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\shovon\Desktop\C sharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Game_Over.resources
